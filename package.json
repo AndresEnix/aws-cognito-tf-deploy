@@ -14,5 +14,13 @@
     "jwk-to-pem": "^2.0.3"
   },
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndresEnix/aws-cognito-tf-deploy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AndresEnix/aws-cognito-tf-deploy/issues"
+  },
+  "homepage": "https://github.com/AndresEnix/aws-cognito-tf-deploy#readme",
   "description": ""
 }
